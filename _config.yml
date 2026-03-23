@@ -1,8 +1,12 @@
-title: halldororesearch
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Halldor Ulfarsson Research
+description: Research documentation and projects by Halldor Ulfarsson
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+baseurl: /Research
+url: https://HalldorUlfarsson.github.io
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+nav_folder_structure: true
+footer_content: "Copyright &copy; 2026 Halldor Ulfarsson. All rights reserved."
+aux_links: 
+  GitHub: https://github.com/HalldorUlfarsson
