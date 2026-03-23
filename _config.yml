@@ -6,10 +6,18 @@ url: https://HalldorUlfarsson.github.io
 color_scheme: dark
 search_enabled: true
 heading_anchors: true
-nav_folder_structure: true
-footer_content: "Copyright &copy; 2026 Halldor Ulfarsson. All rights reserved."
-aux_links: 
-  GitHub: https://github.com/HalldorUlfarsson
+footer_content: "Copyright © 2026 Halldor Ulfarsson. All rights reserved."
+aux_links:
+  - title: "GitHub"
+    url: "https://github.com/HalldorUlfarsson"
+
 collections:
-  my_collection:
+  docs:
     output: true
+    permalink: /:collection/:path/
+
+just-the-docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_exclude: false
