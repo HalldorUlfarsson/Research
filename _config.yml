@@ -6,10 +6,10 @@ url: https://HalldorUlfarsson.github.io
 color_scheme: dark
 search_enabled: true
 heading_anchors: true
-footer_content: "Copyright © 2026 Halldor Ulfarsson. All rights reserved."
+footer_content: "Copyright © 2026 Halldor Ulfarsson. No rights reserved."
 aux_links:
-  - title: "GitHub"
-    url: "https://github.com/HalldorUlfarsson"
+  - title: "halldorphone"
+    url: "https://www.halldorophone.info/"
 
 collections:
   docs:
