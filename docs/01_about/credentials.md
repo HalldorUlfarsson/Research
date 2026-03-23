@@ -1,3 +1,11 @@
+---
+title: Credentials
+nav_order: 2
+parent: docs
+layout: default
+---
+
+
 # Credentials and Qualifications
 
 ## Personal Information
