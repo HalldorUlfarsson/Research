@@ -2,7 +2,7 @@
 title: CV
 nav_order: 1
 parent: about
-Layout: home
+Layout: default
 ---
 
 CV MD
