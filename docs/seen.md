@@ -2,7 +2,9 @@
 title: Sést ég?
 nav_order: 1
 parent: docs
-Layout: default
+Layout: home
 ---
 
 eftir að stúta collections úr config
+
+layout home
