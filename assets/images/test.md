@@ -4,6 +4,6 @@ nav_order: 1
 layout: default
 ---
 
-Assets/test.md
+Assets/images/test.md
 
 ---
