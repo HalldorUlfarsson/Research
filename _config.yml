@@ -14,13 +14,4 @@ aux_links:
 
 nav_enabled: true
 
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
 
-just-the-docs:
-  collections:
-    docs:
-      name: Documentation
-      nav_exclude: False
