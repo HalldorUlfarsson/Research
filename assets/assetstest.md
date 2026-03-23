@@ -1,8 +1,10 @@
 ---
 title: asstest
-nav_order: 
+nav_order: 1
 parent: assets
 Layout: default
 ---
 
-möppurugl
+möppurugl test
+
+assets/assetstest.md
