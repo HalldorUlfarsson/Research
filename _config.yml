@@ -11,6 +11,8 @@ aux_links:
   - title: "halldorphone"
     url: "https://www.halldorophone.info/"
 
+nav_enabled: true
+
 collections:
   docs:
     output: true
