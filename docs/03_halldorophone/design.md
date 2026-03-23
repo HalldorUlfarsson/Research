@@ -6,8 +6,8 @@ The Halldorophone is a unique instrument designed for...
 ## Specifications
 - **Type:** String instrument
 - **Material:** Wood and Metal
-- **Dimensions:** 120 cm x 30 cm x 15 cm
-- **Weight:** 3 kg
+- **Dimensions:** 110 cm x 40 cm x 30 cm
+- **Weight:** 5 kg
 
 ## Features
 - **Tuning System:**...
