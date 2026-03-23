@@ -1,4 +1,4 @@
-title: Halldor Ulfarsson Research
+title: Halldór Úlfarsson Research Profile
 description: Research documentation and projects by Halldor Ulfarsson
 theme: just-the-docs
 baseurl: /Research
@@ -20,4 +20,4 @@ just-the-docs:
   collections:
     docs:
       name: Documentation
-      nav_exclude: false
+      nav_exclude: False
