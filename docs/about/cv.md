@@ -1,7 +1,7 @@
 ---
 title: CV
 nav_order: 1
-parent: docs
+parent: about
 Layout: home
 ---
 
@@ -9,4 +9,4 @@ CV MD
 
 docs/about/cv.md
 
-Parent: docs
+Parent: about
