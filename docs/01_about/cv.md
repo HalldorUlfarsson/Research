@@ -1,3 +1,11 @@
+---
+title: CV
+layout: default
+nav_order: 3
+---
+
+Docs/01_about/CV
+
 # Curriculum Vitae
 
 ## Personal Details
