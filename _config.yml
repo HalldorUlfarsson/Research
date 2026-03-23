@@ -7,9 +7,10 @@ color_scheme: dark
 search_enabled: true
 heading_anchors: true
 footer_content: "Copyright © 2026 Halldor Ulfarsson. No rights reserved."
-aux_links:
-  - title: "halldorphone"
-    url: "https://www.halldorophone.info/"
+
+aux_links: 
+  "halldorphone":
+    - "https://www.halldorophone.info/"
 
 nav_enabled: true
 
