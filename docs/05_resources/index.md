@@ -1,3 +1,8 @@
+title: Resources
+nav_order: 3
+parent: Docs
+
+
 # Resources Hub Overview
 
 Welcome to the Resources Hub! This document aims to provide a comprehensive overview of the resources available within this repository. Here, you can find various materials, links, and references that will aid your research and studies.
